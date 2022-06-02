@@ -1,2 +1,3 @@
 "# countdowm" 
-"# countdowm" 
+"# A launchcountdown app"
+
